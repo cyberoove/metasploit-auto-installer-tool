@@ -1,6 +1,8 @@
 # Disclaimer
 The author is not responsible for any misuse of the code. Do not use this code for any illegal activities.
 
+**by (cyb3r00v3)**
+
 # Metasploit Installer
 
 This script installs the Metasploit framework on an Ubuntu system. The Metasploit framework is a powerful tool used for developing and executing exploits against a target system.
