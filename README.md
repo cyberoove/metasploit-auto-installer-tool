@@ -1,4 +1,5 @@
-# Disclaimer The author is not responsible for any misuse of the code. Do not use this code for any illegal activities.
+# Disclaimer
+The author is not responsible for any misuse of the code. Do not use this code for any illegal activities.
 
 # Metasploit Installer
 
